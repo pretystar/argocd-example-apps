@@ -23,5 +23,5 @@ version: 0.1.0
 appVersion: "1.0"
 dependencies:
   - name: app/tomcat-chart
-    repository: "oci://taijidev.azurecr.io/"
+    repository: "https://taijidev.azurecr.io/"
     version: 1.0.0
