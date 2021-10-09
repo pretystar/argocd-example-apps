@@ -22,6 +22,6 @@ version: 0.1.0
 # follow Semantic Versioning. They should reflect the version the application is using.
 appVersion: "1.0"
 dependencies:
-  - name: app/tomcat-chart
-    repository: "oci://taijidev.azurecr.io/"
+  - name: tomcat-chart
+    repository: "https://taijidev.azurecr.io/app"
     version: 1.0.0
